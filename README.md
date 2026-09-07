@@ -4,9 +4,9 @@
 [Insert your specific problem statement here. Explain the goal of predicting, classifying, or clustering the assigned dataset.][cite: 1]
 
 This repository contains an end-to-end Machine Learning pipeline encompassing three core tracks:
-* **Regression:** Evaluates 10 algorithms to predict continuous values[cite: 1].
-* **Classification:** Evaluates 10 algorithms for categorical prediction[cite: 1].
-* **Clustering:** Evaluates K-Means and Hierarchical clustering for unsupervised pattern discovery[cite: 1].
+* **Regression:** Evaluates 10 algorithms to predict continuous values.
+* **Classification:** Evaluates 10 algorithms for categorical prediction.
+* **Clustering:** Evaluates K-Means and Hierarchical clustering for unsupervised pattern discovery.
 
 ## Team Members
 
@@ -17,10 +17,10 @@ This repository contains an end-to-end Machine Learning pipeline encompassing th
 | NAVEEN SS | CB.SC.U4CSE24264 |
 
 ## Dataset Description
-[Insert dataset name and source][cite: 1]
+[Insert dataset name and source]
 * **Features:** [List key features]
 * **Target Variable:** [List target variable for Regression/Classification]
-* **Track Assignments:** [Specify the assigned dataset per track][cite: 1]
+* **Track Assignments:** [Specify the assigned dataset per track]
 
 ## Environment Setup & Requirements
 To run this project, ensure you have Python 3 installed along with the following primary libraries:
